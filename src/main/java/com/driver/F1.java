@@ -7,7 +7,7 @@ public class F1 extends Car {
     public F1(String name, boolean isManual) {
         //Use arbitrary values for parameters which are not mentioned
         super(name, 4, 4, 6, true, "F1", 5);
-        this.name = name;
+        //this.name = name;
         this.isManual = isManual;
 
     }
